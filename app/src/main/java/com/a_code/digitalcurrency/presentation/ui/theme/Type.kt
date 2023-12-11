@@ -1,4 +1,4 @@
-package com.a_code.digitalcurrency.ui.theme
+package com.a_code.digitalcurrency.presentation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

@@ -1,4 +1,4 @@
-package com.a_code.digitalcurrency
+package com.a_code.digitalcurrency.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,7 +10,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.a_code.digitalcurrency.ui.theme.DigitalCurrencyTheme
+import com.a_code.digitalcurrency.presentation.ui.theme.DigitalCurrencyTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
